@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/qckslvrri/Studies/Code/Spring2023/Periodics/PeriodicsLibrary.UnitTests/PeriodicsLibrary.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/home/qckslvrri/Studies/Code/Spring2023/Periodics/PeriodicsLibrary.UnitTests/PeriodicsLibrary.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/qckslvrri/Studies/Code/Spring2023/Periodics/PeriodicsLibrary.UnitTests/PeriodicsLibrary.UnitTests.csproj",
+        "projectName": "PeriodicsLibrary.UnitTests",
+        "projectPath": "/home/qckslvrri/Studies/Code/Spring2023/Periodics/PeriodicsLibrary.UnitTests/PeriodicsLibrary.UnitTests.csproj",
+        "packagesPath": "/home/qckslvrri/.nuget/packages/",
+        "outputPath": "/home/qckslvrri/Studies/Code/Spring2023/Periodics/PeriodicsLibrary.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/qckslvrri/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/qckslvrri/Studies/Code/Spring2023/Periodics/PeriodicsLibrary/PeriodicsLibrary.csproj": {
+                "projectPath": "/home/qckslvrri/Studies/Code/Spring2023/Periodics/PeriodicsLibrary/PeriodicsLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "Nunit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/qckslvrri/Studies/Code/Spring2023/Periodics/PeriodicsLibrary/PeriodicsLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/qckslvrri/Studies/Code/Spring2023/Periodics/PeriodicsLibrary/PeriodicsLibrary.csproj",
+        "projectName": "PeriodicsLibrary",
+        "projectPath": "/home/qckslvrri/Studies/Code/Spring2023/Periodics/PeriodicsLibrary/PeriodicsLibrary.csproj",
+        "packagesPath": "/home/qckslvrri/.nuget/packages/",
+        "outputPath": "/home/qckslvrri/Studies/Code/Spring2023/Periodics/PeriodicsLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/qckslvrri/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "Nunit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
