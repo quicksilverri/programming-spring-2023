@@ -1,6 +1,4 @@
-﻿using NUnit.Framework;
-
-namespace PeriodicsLibrary
+﻿namespace PeriodicsLibrary
 {
     [TestFixture]
     public class ElectronicPeriodicalEditionTests

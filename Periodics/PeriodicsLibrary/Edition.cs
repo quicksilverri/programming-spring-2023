@@ -24,5 +24,11 @@ namespace PeriodicsLibrary
             }
             return "Нет типа";
         }
+
+        public int CompareTo(Edition other) 
+        {
+            if (Name != other.Name) return Name.CompareTo(other.Name); 
+            return (-1) * Year.CompareTo(other.Year); 
+        }
     }
 }
