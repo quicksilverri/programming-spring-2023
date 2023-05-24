@@ -1,0 +1,16 @@
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/bin/Debug/net5.0/Birthdays
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/bin/Debug/net5.0/Birthdays.deps.json
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/bin/Debug/net5.0/Birthdays.runtimeconfig.json
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/bin/Debug/net5.0/Birthdays.runtimeconfig.dev.json
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/bin/Debug/net5.0/Birthdays.dll
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/bin/Debug/net5.0/ref/Birthdays.dll
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/bin/Debug/net5.0/Birthdays.pdb
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/obj/Debug/net5.0/Birthdays.csproj.AssemblyReference.cache
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/obj/Debug/net5.0/Birthdays.GeneratedMSBuildEditorConfig.editorconfig
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/obj/Debug/net5.0/Birthdays.AssemblyInfoInputs.cache
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/obj/Debug/net5.0/Birthdays.AssemblyInfo.cs
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/obj/Debug/net5.0/Birthdays.csproj.CoreCompileInputs.cache
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/obj/Debug/net5.0/Birthdays.dll
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/obj/Debug/net5.0/ref/Birthdays.dll
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/obj/Debug/net5.0/Birthdays.pdb
+/home/qckslvrri/Studies/Code/Spring2023/Birthdays/obj/Debug/net5.0/Birthdays.genruntimeconfig.cache
