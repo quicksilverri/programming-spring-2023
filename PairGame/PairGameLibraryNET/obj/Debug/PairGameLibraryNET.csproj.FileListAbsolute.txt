@@ -1,0 +1,6 @@
+D:\Code\Spring2023\PairGame\PairGameLibraryNET\obj\Debug\PairGameLibraryNET.csproj.AssemblyReference.cache
+D:\Code\Spring2023\PairGame\PairGameLibraryNET\obj\Debug\PairGameLibraryNET.csproj.CoreCompileInputs.cache
+D:\Code\Spring2023\PairGame\PairGameLibraryNET\bin\Debug\PairGameLibraryNET.dll
+D:\Code\Spring2023\PairGame\PairGameLibraryNET\bin\Debug\PairGameLibraryNET.pdb
+D:\Code\Spring2023\PairGame\PairGameLibraryNET\obj\Debug\PairGameLibraryNET.dll
+D:\Code\Spring2023\PairGame\PairGameLibraryNET\obj\Debug\PairGameLibraryNET.pdb

@@ -1,0 +1,14 @@
+D:\Code\Spring2023\PairGame\PairGameGraphics\obj\Debug\PairGameGraphics.csproj.AssemblyReference.cache
+D:\Code\Spring2023\PairGame\PairGameGraphics\obj\Debug\PairGameGraphics.csproj.SuggestedBindingRedirects.cache
+D:\Code\Spring2023\PairGame\PairGameGraphics\obj\Debug\PairGameGraphics.StartForm.resources
+D:\Code\Spring2023\PairGame\PairGameGraphics\obj\Debug\PairGameGraphics.Properties.Resources.resources
+D:\Code\Spring2023\PairGame\PairGameGraphics\obj\Debug\PairGameGraphics.csproj.GenerateResource.cache
+D:\Code\Spring2023\PairGame\PairGameGraphics\obj\Debug\PairGameGraphics.csproj.CoreCompileInputs.cache
+D:\Code\Spring2023\PairGame\PairGameGraphics\bin\Debug\PairGameGraphics.exe.config
+D:\Code\Spring2023\PairGame\PairGameGraphics\bin\Debug\PairGameGraphics.exe
+D:\Code\Spring2023\PairGame\PairGameGraphics\bin\Debug\PairGameGraphics.pdb
+D:\Code\Spring2023\PairGame\PairGameGraphics\bin\Debug\PairGameLibraryNET.dll
+D:\Code\Spring2023\PairGame\PairGameGraphics\bin\Debug\PairGameLibraryNET.pdb
+D:\Code\Spring2023\PairGame\PairGameGraphics\obj\Debug\PairGameGraphics.csproj.CopyComplete
+D:\Code\Spring2023\PairGame\PairGameGraphics\obj\Debug\PairGameGraphics.exe
+D:\Code\Spring2023\PairGame\PairGameGraphics\obj\Debug\PairGameGraphics.pdb
